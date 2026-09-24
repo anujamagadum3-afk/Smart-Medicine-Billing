@@ -1,0 +1,25 @@
+Medicine Details
+Stores medicine information.
+Includes medicine name, medicine ID, price, expiry date, and category.
+Helps to easily search and manage medicines.
+Supplier Details
+Stores supplier information.
+Includes supplier name, supplier ID, phone number, and address.
+Helps to manage medicine suppliers.
+Stock
+Maintains the available medicine stock.
+Updates stock when new medicines are added.
+Helps to know the current quantity of medicines.
+Sale
+Records medicines sold to customers.
+Stores sale details such as medicine, quantity, price, and total amount.
+Helps to maintain sales records.
+Quantity
+Keeps track of the quantity of each medicine.
+Quantity increases when new stock is added.
+Quantity decreases when medicines are sold.
+Helps to avoid stock shortages.
+Objective
+The main objective of the Medicine Management System is to manage medicine details, supplier details, stock, sales, and quantity in an easy and organized way.
+Conclusion
+The Medicine Management System helps to manage medicines and their stock efficiently. It reduces manual work and keeps medicine and sales information properly organized.
